@@ -1,0 +1,12 @@
+{
+    "description": "",
+    "environments": [],
+    "groups": [],
+    "max-retries": 0,
+    "name": "Remote Soruce Control BP Test Script",
+    "resource-technologies": [],
+    "shared": "False",
+    "source-code-url": "https://raw.githubusercontent.com/Zspark23/First-Project/master/cb_plugin_1640024350784740.py",
+    "target-os-families": [],
+    "type": "CloudBolt Plug-in"
+}
