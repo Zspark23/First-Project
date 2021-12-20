@@ -9,7 +9,7 @@
             "description": null,
             "enabled-environments": [],
             "execute-in-parallel": false,
-            "id": "50",
+            "id": "53",
             "name": "Remote Soruce Control BP Test Script",
             "run-on-scale-up": true,
             "show-on-order-form": true,
