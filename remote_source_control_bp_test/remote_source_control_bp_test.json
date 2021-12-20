@@ -1,0 +1,49 @@
+{
+    "any-group-can-deploy": true,
+    "auto-historical-resources": false,
+    "build-items": [
+        {
+            "action-name": "Remote Soruce Control BP Test Script",
+            "continue-on-failure": false,
+            "deploy-seq": 1,
+            "description": null,
+            "enabled-environments": [],
+            "execute-in-parallel": false,
+            "id": "50",
+            "name": "Remote Soruce Control BP Test Script",
+            "run-on-scale-up": true,
+            "show-on-order-form": true,
+            "type": "plugin"
+        }
+    ],
+    "description": "",
+    "favorited": false,
+    "global-id": "BP-v922dzyt",
+    "groups-that-can-deploy": [
+        {
+            "href": "/api/v2/groups/GRP-6xjiplsf/",
+            "title": "CloudBolt"
+        }
+    ],
+    "groups-that-can-manage": [
+        {
+            "href": "/api/v2/groups/GRP-6xjiplsf/",
+            "title": "CloudBolt"
+        }
+    ],
+    "id": "22",
+    "is-orderable": true,
+    "management-actions": [],
+    "name": "Remote Source Control BP Test",
+    "resource-type": {
+        "icon": "",
+        "label": "Service",
+        "lifecycle": "ACTIVE",
+        "list-view-columns": [],
+        "name": "service",
+        "plural-label": null
+    },
+    "sequence": 0,
+    "show-recipient-field-on-order-form": false,
+    "teardown-items": []
+}
